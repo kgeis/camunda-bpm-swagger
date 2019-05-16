@@ -8,7 +8,7 @@ Swagger Support for Camunda BPM REST API.
 
 **Features:**
 
-* Provides a Swagger OpenSpec API documentation of Camunda BPM Engine REST.
+* Provides a Swagger OpenAPI Spec documentation of Camunda BPM Engine REST.
 * Provides Swagger UI archive which can be used to explore the API.
 * Supports Camunda BPM Engine 7.8
 
